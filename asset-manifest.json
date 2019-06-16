@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DemoQuiz/static/css/main.96af0ee2.chunk.css",
-    "main.js": "/DemoQuiz/static/js/main.90d7cf65.chunk.js",
-    "main.js.map": "/DemoQuiz/static/js/main.90d7cf65.chunk.js.map",
+    "main.css": "/DemoQuiz/static/css/main.c9dac921.chunk.css",
+    "main.js": "/DemoQuiz/static/js/main.ed5de3d0.chunk.js",
+    "main.js.map": "/DemoQuiz/static/js/main.ed5de3d0.chunk.js.map",
     "runtime~main.js": "/DemoQuiz/static/js/runtime~main.a1eb1c80.js",
     "runtime~main.js.map": "/DemoQuiz/static/js/runtime~main.a1eb1c80.js.map",
-    "static/js/2.41eded70.chunk.js": "/DemoQuiz/static/js/2.41eded70.chunk.js",
-    "static/js/2.41eded70.chunk.js.map": "/DemoQuiz/static/js/2.41eded70.chunk.js.map",
+    "static/js/2.6c4c1b6c.chunk.js": "/DemoQuiz/static/js/2.6c4c1b6c.chunk.js",
+    "static/js/2.6c4c1b6c.chunk.js.map": "/DemoQuiz/static/js/2.6c4c1b6c.chunk.js.map",
     "index.html": "/DemoQuiz/index.html",
-    "precache-manifest.554c85533e0acb3fad7a499edc6f4ca2.js": "/DemoQuiz/precache-manifest.554c85533e0acb3fad7a499edc6f4ca2.js",
+    "precache-manifest.b77ae6fed364112afff0b5578821f27d.js": "/DemoQuiz/precache-manifest.b77ae6fed364112afff0b5578821f27d.js",
     "service-worker.js": "/DemoQuiz/service-worker.js",
-    "static/css/main.96af0ee2.chunk.css.map": "/DemoQuiz/static/css/main.96af0ee2.chunk.css.map"
+    "static/css/main.c9dac921.chunk.css.map": "/DemoQuiz/static/css/main.c9dac921.chunk.css.map"
   }
 }
